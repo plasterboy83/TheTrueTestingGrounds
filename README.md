@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+![bruh](https://media.discordapp.net/attachments/938804811317514293/975184239387639818/thanos.png?width=993&height=676)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
